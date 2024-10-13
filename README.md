@@ -18,3 +18,6 @@ Este desafio exige que o desenvolvedor que o implementa siga estas restrições:
 ## Links e recursos úteis
 
 [Sistema numérico binário](https://en.wikipedia.org/wiki/Binary_number)
+
+## Print APP
+![simulator_screenshot_485CD1AF-739A-446D-9930-954E8057D9A8](https://github.com/user-attachments/assets/960f123e-cd31-42e7-b191-05dea165eb78)
